@@ -1,0 +1,86 @@
+.btn{
+    background-color: rgb(23, 235, 48);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 25px;
+}
+.btn:hover {
+    background-color: rgb(255, 174, 0);
+}
+
+img{
+    padding-right: 20px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.post-auth{
+    width: 100%;
+    text-align: center;
+    background-color:rgb(106, 76, 130);
+}
+
+.light-box{
+    padding-top: 20px;
+    background-color: rgb(255, 130, 28);
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+    width: 900px;
+}
+.value-content{
+    font-size: 30px;
+    color: rgb(255, 221, 28);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.temp-box{
+    background-color: rgb(14, 66, 255);
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+    width: 900px;
+}
+
+.tempC-content{
+    font-size: 30px;
+    padding-left: 15px;
+    color: rgb(39, 172, 255);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.tempF-content{
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: rgb(64, 255, 86);
+    font-weight: bold;
+    display: inline-block;
+}
+
+.camera-img-box{
+    background-color: rgb(0, 255, 81);
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+    width: 900px;
+}
+
+.button-box{
+    display: inline-block;
+    width: 100px;
+    color: rgb(64, 255, 86);
+}
+
+.signout-div{
+    width: 100%;
+    text-align: center;
+}
+
+
+body{
+    background-color:rgb(106, 76, 130);
+}
